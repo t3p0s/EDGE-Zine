@@ -27,11 +27,11 @@ domain melalui .htaccess
 <br />
 Masukan code dibawah ini kedalam file .htaccess di folder public_html :
 
-```ruby
+<pre>
 RewriteEngine On
 Options +FollowSymlinks
 RewriteCond %{HTTP_HOST} ^domain\.com
 RewriteRule ^(.*)$ http://www.domain.com/$1 [R=permanent,L]
-```
+</pre>
 <br />
 Untuk penulisan nama domain silahkan sesuaikan dengan nama domain kalian ya sob.
