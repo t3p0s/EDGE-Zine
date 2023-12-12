@@ -1,5 +1,5 @@
 ---
-title: • Home
+title: EDGE-Zine
 layout: home
 permalink: /
 ---
