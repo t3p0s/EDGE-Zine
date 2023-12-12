@@ -6,24 +6,19 @@ categories: Tutorial
 ---
 
 # Cara redirect ketika membuka domain.com menjadi www.domain.com
-<br />
 Pertama-tama ini mungkin sebuah artikel untuk mewakili semua artikel
 yang akan kami posting selanjutnya di EDGE Zine, dan semoga artikel ini
 juga menjadi awal baik untuk kedepannya.
 <br />
-
 # Content
-<br />
 Pada artikel ini mungkin sebagian dari kalian sudah pada tau caranya
 dan memang ada banyak sekali cara untuk melakukannya. Disini kami
 menjelaskan ulang cara untuk melakukan redirect domain.com ke www.domain.com
 <br />
-
 Sebenarnya cara yang paling mudah adalah setting melalui cpanel bagi yang
 hostingnya menggunakan cpanel dan dijamin anti gagal kalau setting dari cpanel.
 Nah sedangkan cara yang akan kami jelaskan pada artikel ini adalah setting redirect
 domain melalui .htaccess
-
 <br />
 Masukan code dibawah ini kedalam file .htaccess di folder public_html :
 
