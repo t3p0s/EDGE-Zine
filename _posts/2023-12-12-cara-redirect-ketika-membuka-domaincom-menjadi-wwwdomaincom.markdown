@@ -24,11 +24,11 @@ domain melalui .htaccess
 
 Masukan code dibawah ini kedalam file .htaccess di folder public_html :
 
-{% highlight %}
+```
 RewriteEngine On
 Options +FollowSymlinks
 RewriteCond %{HTTP_HOST} ^domain\.com
 RewriteRule ^(.*)$ http://www.domain.com/$1 [R=permanent,L]
-{% endhighlight %}
+```
 
 Untuk penulisan nama domain silahkan sesuaikan dengan nama domain kalian ya sob.
