@@ -10,7 +10,7 @@ categories: Tutorial
 
 Pertama-tama ini mungkin sebuah artikel untuk mewakili semua artikel
 yang akan kami posting selanjutnya di EDGE Zine, dan semoga artikel ini
-juga menjadi awal baik untuk kedepannya. ^_^
+juga menjadi awal baik untuk kedepannya.
 
 # Content
 
