@@ -1,5 +1,5 @@
 ---
-title: • Peter
+title: ./Peter
 layout: page
 permalink: /peter
 ---
