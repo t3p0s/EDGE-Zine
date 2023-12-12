@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cara redirect ketika membuka domain.com menjadi www.domain.com"
-date:   2023-13-12
+date:   2023-12-10
 categories: Tutorial
 ---
 
