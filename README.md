@@ -1,1 +1,1 @@
-# EDGE-Zine
+# EDGE Zine
